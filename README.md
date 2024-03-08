@@ -1,2 +1,2 @@
 # HDL
-HDL is way too boring and theres no way im typing all this
+Verilog HDL lab for 3rd sem ECE students
