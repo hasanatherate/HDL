@@ -52,4 +52,4 @@ s=1;r=1; #10;display;
 end
 initial
 #70 $finish;
-Endmodule
+endmodule
